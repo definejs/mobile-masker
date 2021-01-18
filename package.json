@@ -1,6 +1,6 @@
 {
   "name": "@definejs/mobile-masker",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -13,7 +13,7 @@
     "url": "https://github.com/definejs/mobile-masker.git"
   },
   "dependencies": {
-    "@definejs/masker": "^0.1.4",
-    "@definejs/touch": "^0.1.0"
+    "@definejs/masker": "^1.0.0",
+    "@definejs/touch": "^1.0.0"
   }
 }
